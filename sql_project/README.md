@@ -1,4 +1,4 @@
-# SQL Project
+# SQL Project - i will change it later -> just for 
 
 This is a basic SQL project with sample schema and queries.
 
